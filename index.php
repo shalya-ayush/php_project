@@ -77,7 +77,7 @@ $conn = mysqli_connect($servername, $username , $password, $database);
             </div>
            
             <button type="submit" class="btn btn-primary">Submit</button>
-            <a class="btn btn-primary" href="#" role="button">Link</a>
+            <a class="btn btn-primary" href="/PHPPROJECT/firstpage.php" role="button">Link</a>
           </form>
 
 
